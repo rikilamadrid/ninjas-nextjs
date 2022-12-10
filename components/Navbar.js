@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="logo">
-        <Image src="/ninja-favicon.png" width={128} height={50} />
+        <Image src="/ninja-favicon.png" width={128} height={100} />
       </div>
       <Link href="/"><a>Home</a></Link>
       <Link href="/about"><a>About</a></Link>
